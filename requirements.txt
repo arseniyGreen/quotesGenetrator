@@ -1,0 +1,4 @@
+Quote2Image
+telebot
+aiogram
+sqlalchemy
