@@ -8,7 +8,7 @@ import logging
 
 from handlers import router
 
-TOKEN = "6040903928:AAEy4D2Qj8CTRoUNnzwoblMbh8W7cdyoVG0" # your bot's token
+TOKEN = "" # your bot's token
 
 async def main():
     bot = Bot(TOKEN)
